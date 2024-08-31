@@ -1,0 +1,14 @@
+# meta file for docker_install
+
+galaxy_info:
+  author: Killionis
+  description: Install Docker on Ubuntu using the official Docker repository
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+        - focal
+        - jammy
+
+dependencies: []

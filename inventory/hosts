@@ -1,0 +1,2 @@
+[vm]
+192.168.64.5 ansible_user=ubuntu
